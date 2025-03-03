@@ -1,6 +1,6 @@
 langchain
 # langchain-neo4j
-# langgraph
+langgraph
 # langchain_groq
 ipykernel
 tavily-python
