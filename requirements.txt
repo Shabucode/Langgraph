@@ -1,0 +1,9 @@
+langchain
+# langchain-neo4j
+# langgraph
+# langchain_groq
+ipykernel
+tavily-python
+langchain_community
+langchain_core
+langchain_openai
